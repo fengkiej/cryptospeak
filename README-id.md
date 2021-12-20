@@ -4,8 +4,8 @@
 
 |Jargon|Arti|
 |------|----|
-|**ser**| om |
-|**sers**| om sekalian|
+|**ser**| om / tante |
+|**sers**| om / tante sekalian|
 |**gm**| good morning / selamat pagi biasanya dipake ketika baru online|
 |**gn**| good night / selamat malam kebalikan good morning biasanya dipakai ketika akan offline|
 |**gmi**| gonna make it / akan sukses|

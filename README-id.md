@@ -1,5 +1,7 @@
 *Kamus Cryptospeak*
 
+[EN (English)](./README.md)
+
 |Jargon|Arti|
 |------|----|
 |**ser**| om |
@@ -7,6 +9,7 @@
 |**gm**| good morning / selamat pagi biasanya dipake ketika baru online|
 |**gn**| good night / selamat malam kebalikan good morning biasanya dipakai ketika akan offline|
 |**gmi**| gonna make it / akan sukses|
+|**ngmi**| not gonna make it / akan gagal|
 |**wagmi**| we all gonna make it / kita semua bakalan sukses|
 |**hodl**| megang crypto dan gak dijual |
 |**bags**| asset-asset crypto yg dipunya|

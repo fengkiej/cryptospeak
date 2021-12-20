@@ -1,5 +1,7 @@
 *Kamus Cryptospeak*
 
+Kamus singkat untuk of jargon, lingo, dan slangs yang sering digunakan dalam komunitas web3 and crypto.
+
 [EN (English)](./README.md)
 
 |Jargon|Arti|

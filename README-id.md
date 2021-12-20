@@ -13,7 +13,7 @@
 |**wagmi**| we all gonna make it / kita semua bakalan sukses|
 |**hodl**| megang crypto dan gak dijual |
 |**bags**| asset-asset crypto yg dipunya|
-|**degen**| degenerate / trading atau ikut partisipasi di DApps tanpa ambil pusing|
+|**degen**| degenerate / trading atau ikut partisipasi di DApps tanpa ambil pusing |
 |**OG**| original gangsta / pemain-pemain awal crypto|
 |**ape**| masuk tanpa pikir panjang|
 |**FUD**|  fear, uncertainty, doubt |
@@ -27,3 +27,6 @@
 |**farm**| ladang-ladang DApps (biasanya berbentuk LP staking) untuk mendapatkan keuntungan|
 |**rug**| dari kata **rugpull** (menarik karpet) untuk mengatakan bahwa sebuah project scam|
 |**ohm forks**| skema ponzi paling mutakhir|
+|**larp**| live-action role playing / tipu-tipu jadi whale di crypto|
+|**wen**| when / kapan |
+|**rekt**|  dari kata **wrecked** / mendapatkan kerugian besar |

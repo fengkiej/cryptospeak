@@ -15,7 +15,8 @@
 |**bags**| asset-asset crypto yg dipunya|
 |**degen**| degenerate / trading atau ikut partisipasi di DApps tanpa ambil pusing |
 |**OG**| original gangsta / pemain-pemain awal crypto|
-|**ape**| masuk tanpa pikir panjang|
+|**ape**| ambil posisi tanpa pikir panjang |
+|**middle-curve**| overthinking investor, kebalikan dari **ape**, ambil posisi dengan banyak kalkulasi dan pertimbangan |
 |**FUD**|  fear, uncertainty, doubt |
 |**lambo**| sukses di crypto hingga bisa beli Lamborghini|
 |**moon**| harga menjulang menuju ke bulan|

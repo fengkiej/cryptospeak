@@ -1,6 +1,6 @@
 *The Cryptospeak Dictionary*
 
-The ELI5 dictionary of commonly used jargon, lingo, and slangs commonly used in web3 and crypto communities.
+The ELI5 dictionary of jargon, lingo, and slangs commonly used in web3 and crypto communities.
 
 [ID (Bahasa Indonesia)](./README-id.md)
 

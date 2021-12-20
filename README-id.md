@@ -31,3 +31,4 @@
 |**larp**| live-action role playing / tipu-tipu jadi whale di crypto|
 |**wen**| when / kapan |
 |**rekt**|  dari kata **wrecked** / mendapatkan kerugian besar |
+|**nft**| jpeg atau item digital bernilai tinggi |

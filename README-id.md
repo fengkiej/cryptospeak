@@ -1,5 +1,7 @@
-*The Cryptospeak 101*
+*Kamus Cryptospeak*
 
+|Jargon|Arti|
+|------|----|
 |**ser**| om |
 |**sers**| om sekalian|
 |**gm**| good morning / selamat pagi biasanya dipake ketika baru online|

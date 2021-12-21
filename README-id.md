@@ -6,6 +6,7 @@ Kamus singkat untuk of jargon, lingo, dan slangs yang sering digunakan dalam kom
 
 |Jargon|Arti|
 |------|----|
+|**ct**| crypto twitter |
 |**ser**| om / tante |
 |**sers**| om / tante sekalian|
 |**gm**| good morning / selamat pagi biasanya dipake ketika baru online|
@@ -26,6 +27,10 @@ Kamus singkat untuk of jargon, lingo, dan slangs yang sering digunakan dalam kom
 |**whale**| pemilik asset crypto yang nilainya raksasa|
 |**AMM**| automated market maker / algoritma yang umum digunakan dalam decentralized exchange untuk pertukaran coin|
 |**LP**| liquidity providers / kontribusi untuk menciptakan likuiditas pasar untuk crypto coin dan token|
+|**mint**| proses pengeluaran(issuing) NFTs / token di atas blockchain |
+|**burn**| proses penghapusan NFTs / token di atas blockchain untuk mengurangi sirkulasi yang beredar|
+|**szn**| season / musim dari siklus market |
+|**lfg**| let's fucking go / digunakan ketika seseorang bersemangat tentang sesuatu hal |
 |**staking**| melakukan komitmen untuk hodl crypto token atau coin dalam sebuah protokol atau smart contract|
 |**farm**| ladang-ladang DApps (biasanya berbentuk LP staking) untuk mendapatkan keuntungan|
 |**rug**| dari kata **rugpull** (menarik karpet) untuk mengatakan bahwa sebuah project scam|

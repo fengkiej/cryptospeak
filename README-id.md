@@ -23,6 +23,8 @@ Kamus singkat untuk of jargon, lingo, dan slangs yang sering digunakan dalam kom
 |**FUD**|  fear, uncertainty, doubt |
 |**lambo**| sukses di crypto hingga bisa beli Lamborghini|
 |**moon**| harga menjulang menuju ke bulan|
+|**DYOR**| Do your own research, analisa sendiri (harga, ta, fundamental) |
+|**bart**| Chart harga membentuk pola seperti kepala bart simpson (naik drastis, disusul dengan turun drastis) |
 |**PnD**| pump and dump / manipulasi pasar secara non-etis untuk mendapatkan keuntungan pribadi atau kelompok|
 |**whale**| pemilik asset crypto yang nilainya raksasa|
 |**AMM**| automated market maker / algoritma yang umum digunakan dalam decentralized exchange untuk pertukaran coin|

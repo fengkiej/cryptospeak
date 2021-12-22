@@ -6,14 +6,16 @@ Kamus singkat untuk of jargon, lingo, dan slangs yang sering digunakan dalam kom
 
 |Jargon|Arti|
 |------|----|
+|**web3**| istilah terkait evolusi web yang peer-to-pper, terdesentral, dan terbuka|
 |**ct**| crypto twitter |
+|**bro**| bang |
 |**ser**| om / tante |
 |**sers**| om / tante sekalian|
 |**gm**| good morning / selamat pagi biasanya dipake ketika baru online|
 |**gn**| good night / selamat malam kebalikan good morning biasanya dipakai ketika akan offline|
 |**gmi**| gonna make it / akan sukses|
 |**ngmi**| not gonna make it / akan gagal|
-|**wagmi**| we all gonna make it / kita semua bakalan sukses|
+|**wagmi**| we're all gonna make it / kita semua bakalan sukses|
 |**hodl**| megang crypto dan gak dijual |
 |**bags**| asset-asset crypto yg dipunya|
 |**degen**| degenerate / trading atau ikut partisipasi di DApps tanpa ambil pusing |
@@ -41,3 +43,5 @@ Kamus singkat untuk of jargon, lingo, dan slangs yang sering digunakan dalam kom
 |**wen**| when / kapan |
 |**rekt**|  dari kata **wrecked** / mendapatkan kerugian besar |
 |**nft**| jpeg atau item digital bernilai tinggi |
+|**probably nothing**| probably nothing = probably something. Mungkin ada sesuatu dari sebuah informasi |
+|**few**| few understand / few people understand. Hanya sebagian kecil orang mengerti bahwa sebuah informasi adalah penting |

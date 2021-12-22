@@ -6,7 +6,9 @@ Kamus singkat untuk of jargon, lingo, dan slangs yang sering digunakan dalam kom
 
 |Jargon|Arti|
 |------|----|
-|**web3**| istilah terkait evolusi web yang peer-to-pper, terdesentral, dan terbuka|
+|**alpha leak**| analisis atau informasi untuk menghasilkan keuntungan dari pasar|
+|**decentralized**| kegiatan atau keputusan yang dibuat oleh anggota komunitas, berlawanan dengan keputusan oleh sebuah otoritas| 
+|**web3**| istilah terkait evolusi web yang peer-to-peer, terdesentral, dan terbuka|
 |**ct**| crypto twitter |
 |**bro**| bang |
 |**ser**| om / tante |

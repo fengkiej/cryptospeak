@@ -2,12 +2,8 @@
 
 The ELI5 dictionary of jargon, lingo, and slangs commonly used in web3 and crypto communities.
 
-[ID (Bahasa Indonesia)](./README-id.md)
-*Cryptospeak Dictionary*
-
-A short dictionary of frequently used jargon, lingo, and slangs in the web3 and crypto community.
-
 [EN (English)](./README.md)
+[ID (Bahasa Indonesia)](./README-id.md)
 
 |Jargon|Meaning|
 |------|----|

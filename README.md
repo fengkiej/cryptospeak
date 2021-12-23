@@ -10,7 +10,7 @@ The ELI5 dictionary of jargon, lingo, and slangs commonly used in web3 and crypt
 |------|----|
 |**alpha leak**| an analysis or information to generate profit from the market|
 |**decentralized**| activities or decisions being made by the members of a community, as opposed to by an authority|
-|**web3**| terms related to the next evolution of the open web, peer-to-peer, and decentralized |
+|**web3**| terms related to the next evolution of the open web, peer-to-peer, and decentralized platforms |
 |**ct**| crypto twitter |
 |**bro**| bro |
 |**fren**| friend |

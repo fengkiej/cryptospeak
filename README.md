@@ -13,6 +13,8 @@ The ELI5 dictionary of jargon, lingo, and slangs commonly used in web3 and crypt
 |**web3**| terms related to the next evolution of the open web, peer-to-peer, and decentralized |
 |**ct**| crypto twitter |
 |**bro**| bro |
+|**fren**| friend |
+|**frens**| friends |
 |**ser**| sir |
 |**sers**| sirs |
 |**gm**| good morning, usually used when someone just getting online|

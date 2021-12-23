@@ -11,6 +11,8 @@ Kamus singkat untuk of jargon, lingo, dan slangs yang sering digunakan dalam kom
 |**web3**| istilah terkait evolusi web yang peer-to-peer, terdesentral, dan terbuka|
 |**ct**| crypto twitter |
 |**bro**| bang |
+|**fren**| kawan |
+|**frens**| wankawan |
 |**ser**| om / tante |
 |**sers**| om / tante sekalian|
 |**gm**| good morning / selamat pagi biasanya dipake ketika baru online|
